@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "react_native",
+    "slug": "react_native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "androidGestureService": true,
+    "experiments": {
+      "tsconfigPaths": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "18582248-c96f-402a-9f0a-37ac26a49f48"
+      }
+    },
+    "android": {
+      "package": "com.xumufeng.react_native"
+    }
+  }
+}
